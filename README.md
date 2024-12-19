@@ -14,7 +14,7 @@ An advanced article generator powered by LangChain and DeepInfra Llama-3.1-405B 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/article-generator.git
+    git clone https://github.com/Anurag-Deo/blog-generator
     ```
 
 2. **Navigate to the project directory:**
